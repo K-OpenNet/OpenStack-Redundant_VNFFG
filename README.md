@@ -15,4 +15,4 @@ https://github.com/K-OpenNet/K-ONE/blob/master/Technical_Documents/K-ONE_%2335-R
 
 3. Redundant VNFFG configuration
 
-![picture](./Users/hosung/Desktop/picture/picture.png)
+![picture](C:\Users\hosung\Desktop\picture/picture.png)
