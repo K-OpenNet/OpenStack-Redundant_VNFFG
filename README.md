@@ -9,9 +9,9 @@ https://github.com/K-OpenNet/K-ONE/blob/master/Technical_Documents/K-ONE_%2335-R
 
 + To do list
 
-Packet Duplicate
+1. Packet Duplicate
 
-Packet Merge
+2. Packet Merge
 
-Redundant VNFFG configuration
+3. Redundant VNFFG configuration
 
