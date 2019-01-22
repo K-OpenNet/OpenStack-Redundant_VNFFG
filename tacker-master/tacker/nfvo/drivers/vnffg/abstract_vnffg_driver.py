@@ -33,7 +33,7 @@ class VnffgAbstractDriver(extensions.PluginInterface):
     @abc.abstractmethod
     def get_description(self):
         pass
-
+#
     @abc.abstractmethod
     def create_chain(self, name, fc_id, vnfs, symmetrical=False,
                      auth_attr=None):
@@ -65,4 +65,9 @@ class VnffgAbstractDriver(extensions.PluginInterface):
     @abc.abstractmethod
     def delete_flow_classifier(self, fc_id, auth_attr=None):
         """Delete flow classifier"""
+        pass
+
+    @abc.abstractmethod
+    def duplicate_chain(self, chain_id, auth_attr=None):
+        """Duplicate flow classifier"""
         pass
