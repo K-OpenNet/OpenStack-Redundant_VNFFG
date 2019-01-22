@@ -3,10 +3,12 @@ Redundancy module of VNFFG This repository is for developing Redundancy module f
 
 Target Open source project : OpenStack Tacker project
 
-Technical document of this project : https://github.com/K-OpenNet/K-ONE/blob/master/Technical_Documents/K-ONE_%2335-Redundancy_VNFFG_module_in_Tacker.pdf
+Technical document  : https://github.com/K-OpenNet/K-ONE/blob/master/Technical_Documents/K-ONE_%2335-Redundancy_VNFFG_module_in_Tacker.pdf
 
 To do list
 
 Packet Duplicate
 Packet Merge
 Redundant VNFFG configuration
+
+
