@@ -11,4 +11,3 @@ Packet Duplicate
 Packet Merge
 Redundant VNFFG configuration
 
-![picture](./picture/pircture.png)
