@@ -7,14 +7,18 @@ Target Open source project : OpenStack Tacker project
 
 https://github.com/K-OpenNet/K-ONE/blob/master/Technical_Documents/K-ONE_%2335-Redundancy_VNFFG_module_in_Tacker.pdf
 
-**To do list**
+**What to use**
 
-1. Packet Duplicate
+1. Multiple path for load-balancing
 
-2. Packet Merge
+2. Backup VNFFG
 
-3. Redundant VNFFG configuration
+3. Redundant VNFFG for high availability
 
+
+**Blueprint review**
+
+https://blueprints.launchpad.net/tacker/+spec/redundancy-module-vnffg
 
 
 **Task Overview**
